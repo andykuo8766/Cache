@@ -34,9 +34,28 @@ Cache is a smaller and fast memory component in the computer which is inserted b
 	* I-Cache : L1 Cache for Instruction
 * L2 Cache
 * L3 Cache
+## Cache features of Cortex-A series processors
+|     | Cortex-A7 | Cortex-A9 | Cortex-A15 | Cortex-A53 | 
+| Cache Implementation (Data) | PIPT | PIPT | PIPT | PIPT | 
+| Cache Implementation (Instruction) | VIPT | VIPT | PIPT | VIPT | 
+| L1 Cache size (data) | 8KB~64KB | 16KB/32KB/64KB | 32KB | 8KB~64KB | 
+| L1 Cache Structure | 2-way set associative (Inst) 4-way set associative (Data) | 4-way set associative (Inst) 4-way set associative (Data) | 2-way set associative (Inst) 2-way set associative (Data) | 2-way set associative (Inst) 4-way set associative (Data) | 
+| Cache line | 64Bytes | 32Bytes | 64Bytes | 64 bytes |  
+* **[ARM Cortex-A7 MPCore Processor Technical Reference Manual](https://documentation-service.arm.com/static/602cf701083323480d479d18?token=)**
+* **[ARM Cortex-A9 MPCore Processor Technical Reference Manual](https://documentation-service.arm.com/static/5e7e1f4fb2608e4d7f0a369f?token=)**
+* **[ARM Cortex-A15 MPCore Processor Technical Reference Manual](https://documentation-service.arm.com/static/5e8ecc3ec5ee7d4a00694112?token=)**
+* **[ARM Cortex-A53 MPCore Processor Technical Reference Manual](https://documentation-service.arm.com/static/6040c321ee937942ba301626?token=)**
+
+## L1 Cache architecture in ARM
+
+* VIVT (virtual indexed vritual tagged)
 
 
-## Cache Placement Policies
+* VIPT(virtual indexed physical tagged)
+
+* PIPT(physical indexed physical tagged)
+
+## Cache Structure
 ![image](https://github.com/andykuo8766/Cache-Simulator/blob/main/Pictures/cache-associativity.jpg)
 * Directed Mapped
 ![image](https://github.com/andykuo8766/Cache-Simulator/blob/main/Pictures/Direct-Mapped_Cache_Snehal_Img.png)
