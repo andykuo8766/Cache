@@ -53,7 +53,7 @@ Cache is a smaller and fast memory component in the computer which is inserted b
 
 * To run the program
 
->./sim <cache size> <associativity> <block size> <replacement algorithm> <write policy> <tracefile.txt>
+>./sim <cache size\> <associativity\> <block size\> <replacement algorithm\> <write policy\> <tracefile.txt\>
 
 * Example
 ![image](https://github.com/andykuo8766/Cache-Simulator/blob/main/Pictures/simulator.png)
