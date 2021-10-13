@@ -36,6 +36,7 @@ Cache is a smaller and fast memory component in the computer which is inserted b
 * L3 Cache
 ## Cache features of Cortex-A series processors
 |     | Cortex-A7 | Cortex-A9 | Cortex-A15 | Cortex-A53 | 
+|---| --- | --- | --- | --- | 
 | Cache Implementation (Data) | PIPT | PIPT | PIPT | PIPT | 
 | Cache Implementation (Instruction) | VIPT | VIPT | PIPT | VIPT | 
 | L1 Cache size (data) | 8KB~64KB | 16KB/32KB/64KB | 32KB | 8KB~64KB | 
