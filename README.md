@@ -5,6 +5,13 @@
 | ----------- | --- | --- |
 | `andykuo8766` | `郭紘安` | andykuo8766@gapp.nthu.edu.tw |
 
+## Cache Placement Policies
+![image](https://github.com/andykuo8766/Cache-Simulator/blob/main/cache-associativity.jpg)
+* Directed Mapped
+* Set Associative
+* Fully Associative
+
+
 
 
 ## Reference
