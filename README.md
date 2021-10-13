@@ -27,6 +27,13 @@ Cache is a smaller and fast memory component in the computer which is inserted b
 | CPU reads Cache Memory data before reading RAM. | CPU reads RAM data after reading Cache Memory. |
 | It can be internal and external both. | It is generally internal. |
 
+## Different levels of CPU Cache
+* L1 Cache (I-Cache, D-Cache)
+	* D-Cache : L1 Cache for Data
+	* I-Cache : L1 Cache for Instruction
+* L2 Cache
+* L3 Cache
+
 
 ## Cache Placement Policies
 ![image](https://github.com/andykuo8766/Cache-Simulator/blob/main/cache-associativity.jpg)
