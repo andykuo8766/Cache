@@ -9,6 +9,7 @@
 A CPU cache is a hardware cache used by the central processing unit (CPU) of a computer to reduce the average cost (time or energy) to access data from the main memory.
 
 ## RAM VS Cache
+![image](https://github.com/andykuo8766/Cache-Simulator/blob/main/CACHE.png)
 * Random Access Memory (RAM) :
 Random Access Memory (RAM) is used to store the programs and data being used by the CPU in real-time. The data on the random access memory can be read, written, and erased any number of times. RAM is a hardware element where the data being currently used is stored. It is a volatile memory. Two types of RAM are Static RAM, or (SRAM) and Dynamic RAM, or (DRAM).
 * Cache Memory :
@@ -41,3 +42,6 @@ Cache is a smaller and fast memory component in the computer which is inserted b
 * **[ananthamapod/Cache-Simulator](https://github.com/ananthamapod/Cache-Simulator)**
 * **[Cache Simulations](http://www.csbio.unc.edu/mcmillan/index.py?run=Wiki&page=%24Comp411S12.Lab+9)**
 * **[cache-3-associativity-handout](http://csillustrated.berkeley.edu/PDFs/handouts/cache-3-associativity-handout.pdf)**
+* **[Difference between RAM and Cache](https://www.geeksforgeeks.org/difference-between-ram-and-cache/)**
+
+
