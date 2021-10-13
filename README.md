@@ -39,8 +39,11 @@ Cache is a smaller and fast memory component in the computer which is inserted b
 ## Cache Placement Policies
 ![image](https://github.com/andykuo8766/Cache-Simulator/blob/main/Pictures/cache-associativity.jpg)
 * Directed Mapped
+![image](https://github.com/andykuo8766/Cache-Simulator/blob/main/Pictures/Direct-Mapped_Cache_Snehal_Img.png)
 * Set Associative
+![image](https://github.com/andykuo8766/Cache-Simulator/blob/main/Pictures/Set-Associative_Cache_Snehal_Img.png)
 * Fully Associative
+![image](https://github.com/andykuo8766/Cache-Simulator/blob/main/Pictures/Fully-Associative_Cache_Snehal_Img.png)
 
 
 
