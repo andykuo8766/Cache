@@ -40,7 +40,7 @@ Cache is a smaller and fast memory component in the computer which is inserted b
 |---| --- | --- | --- | --- | 
 | Cache Implementation (Data) | PIPT | PIPT | PIPT | PIPT | 
 | Cache Implementation (Instruction) | VIPT | VIPT | PIPT | VIPT | 
-| L1 Cache size (data) | 8KB~64KB | 16KB/32KB/64KB | 32KB | 8KB~64KB | 
+| L1 Cache size (Data) | 8KB~64KB | 16KB/32KB/64KB | 32KB | 8KB~64KB | 
 | L1 Cache Structure | 2-way set associative (Inst) 4-way set associative (Data) | 4-way set associative (Inst) 4-way set associative (Data) | 2-way set associative (Inst) 2-way set associative (Data) | 2-way set associative (Inst) 4-way set associative (Data) | 
 | Cache line | 64Bytes | 32Bytes | 64Bytes | 64 bytes |  
 * **[ARM Cortex-A7 MPCore Processor Technical Reference Manual](https://documentation-service.arm.com/static/602cf701083323480d479d18?token=)**
