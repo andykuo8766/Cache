@@ -1,4 +1,4 @@
-# Cache-Simulator
+# Cache Simulator
 
 ## Author
 | GitHub 帳號 | 姓名 | Email |
