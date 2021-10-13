@@ -101,7 +101,7 @@ blockMask = blockSize - 1;
 /*reads in line*/
   while(fgets(line,50,trace) != NULL) {
 /*parses into mode, address, etc*/
-    sscanf(line,"%s %c %x",eip,&mode,&address);
+    sscanf(line,"%s %c %x",eip,&mode,(unsigned int *)&address);
 /*gets the set, tag, and block offset values using the masks*/
     blockOffset = address&blockMask;
     set = (address&setMask) >> blockBits;

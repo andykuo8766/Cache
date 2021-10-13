@@ -60,7 +60,7 @@ int validAssociativity(char *assoc) {
   int setSize;
   if(strcmp(assoc,"-direct") == 0)
     setSize = 1;
-  else if(strncmp(assoc,"-assoc:",7) == 0) {
+  else if(strncmp(assoc,"-assoc:",(long unsigned int)7) == 0) {
     setSize = strtol(assoc,assoc+7,10);
     if(!isPow2(setSize))
       setSize = 0;

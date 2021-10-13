@@ -45,8 +45,18 @@ Cache is a smaller and fast memory component in the computer which is inserted b
 * Fully Associative
 ![image](https://github.com/andykuo8766/Cache-Simulator/blob/main/Pictures/Fully-Associative_Cache_Snehal_Img.png)
 
+## How to run
 
+* To complie the program
 
+>make
+
+* To run the program
+
+>./sim <cache size> <associativity> <block size> <replacement algorithm> <write policy> <tracefile.txt>
+
+* Example
+![image](https://github.com/andykuo8766/Cache-Simulator/blob/main/Pictures/simulator.png)
 
 ## Reference
 * **[Cache placement policies](https://en.wikipedia.org/wiki/Cache_placement_policies)**
