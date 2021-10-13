@@ -15,7 +15,7 @@ Cache is a smaller and fast memory component in the computer which is inserted b
 
 | RAM | CACHE | 
 | --- | ----- |
-| <style="width: 50%">RAM is a volatile memory which could store the data as long as the power is supplied.</style> | <style="width: 50%">Cache is a smaller and fast memory component in the computer.</style>  |
+| <div style="width: 50%">RAM is a volatile memory which could store the data as long as the power is supplied.</div> | <div="width: 50%">Cache is a smaller and fast memory component in the computer.</div>  |
 
 
 
