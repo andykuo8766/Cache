@@ -9,7 +9,7 @@
 A CPU cache is a hardware cache used by the central processing unit (CPU) of a computer to reduce the average cost (time or energy) to access data from the main memory.
 
 ## RAM VS Cache
-![image](https://github.com/andykuo8766/Cache-Simulator/blob/main/CACHE.png)
+![image](https://github.com/andykuo8766/Cache-Simulator/blob/main/Pictures/CACHE.png)
 * Random Access Memory (RAM) :
 Random Access Memory (RAM) is used to store the programs and data being used by the CPU in real-time. The data on the random access memory can be read, written, and erased any number of times. RAM is a hardware element where the data being currently used is stored. It is a volatile memory. Two types of RAM are Static RAM, or (SRAM) and Dynamic RAM, or (DRAM).
 * Cache Memory :
@@ -28,6 +28,7 @@ Cache is a smaller and fast memory component in the computer which is inserted b
 | It can be internal and external both. | It is generally internal. |
 
 ## Different levels of CPU Cache
+![image](https://github.com/andykuo8766/Cache-Simulator/blob/main/Pictures/I-Cache%26D-Cache.jpg)
 * L1 Cache (I-Cache, D-Cache)
 	* D-Cache : L1 Cache for Data
 	* I-Cache : L1 Cache for Instruction
@@ -36,7 +37,7 @@ Cache is a smaller and fast memory component in the computer which is inserted b
 
 
 ## Cache Placement Policies
-![image](https://github.com/andykuo8766/Cache-Simulator/blob/main/cache-associativity.jpg)
+![image](https://github.com/andykuo8766/Cache-Simulator/blob/main/Pictures/cache-associativity.jpg)
 * Directed Mapped
 * Set Associative
 * Fully Associative
