@@ -84,5 +84,5 @@ Cache is a smaller and fast memory component in the computer which is inserted b
 * **[Cache Simulations](http://www.csbio.unc.edu/mcmillan/index.py?run=Wiki&page=%24Comp411S12.Lab+9)**
 * **[cache-3-associativity-handout](http://csillustrated.berkeley.edu/PDFs/handouts/cache-3-associativity-handout.pdf)**
 * **[Difference between RAM and Cache](https://www.geeksforgeeks.org/difference-between-ram-and-cache/)**
-
+* **[Cache features of Cortex-A series processors](https://developer.arm.com/documentation/den0013/d/Caches/Cache-architecture/Virtual-and-physical-tags-and-indexes)**
 
