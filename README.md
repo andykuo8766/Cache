@@ -12,6 +12,7 @@ Random Access Memory (RAM) is used to store the programs and data being used by 
 * Cache Memory :
 Cache is a smaller and fast memory component in the computer which is inserted between the CPU and the main memory. To make this arrangement effective. The cache needs to be much faster than main memory. This approach is more economical than the use of fast memory devices to implement the entire main memory.
 * Difference between RAM and Cache :
+
 | RAM | CACHE | 
 | --- | ----- |
 | <div style="width: 150pt">RAM is a volatile memory which could store the data as long as the power is supplied. | <div style="width: 150pt">Cache is a smaller and fast memory component in the computer. |
