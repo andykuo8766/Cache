@@ -71,7 +71,7 @@ Different from the other cache designs discussed above, VIVT caches use only vir
 * Fully Associative
 ![image](https://github.com/andykuo8766/Cache-Simulator/blob/main/Pictures/Fully-Associative_Cache_Snehal_Img.png)
 -----
-## How to run
+## How to run Simulator_V2
 
 * To complie the program
 
