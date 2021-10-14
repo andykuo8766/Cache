@@ -1,0 +1,117 @@
+﻿Andy@DESKTOP-U3NCGPP D:\Lab5\COlab5-final
+$ cache 256 128 f LRU spice.din
+Input file = spice.din
+Demand fetch = 1000001
+Cache hit = 999299
+Cache miss = 702
+Miss rate = 0.0007
+Read data = 150699
+Write data = 66538
+Bytes from Memory = 89856
+Byte to memory = 19456
+
+Andy@DESKTOP-U3NCGPP D:\Lab5\COlab5-final
+$ cache 8 4 8 LRU spice.din
+Input file = spice.din
+Demand fetch = 1000001
+Cache hit = 950702
+Cache miss = 49299
+Miss rate = 0.0493
+Read data = 150699
+Write data = 66538
+Bytes from Memory = 197196
+Byte to memory = 24648
+
+	
+Andy@DESKTOP-U3NCGPP D:\Lab5\COlab5-final
+$ cache 16 16 2 LRU spice.din
+Input file = spice.din
+Demand fetch = 1000001
+Cache hit = 984871
+Cache miss = 15130
+Miss rate = 0.0151
+Read data = 150699
+Write data = 66538
+Bytes from Memory = 242080
+Byte to memory = 31584
+
+Andy@DESKTOP-U3NCGPP D:\Lab5\COlab5-final
+$ cache 256 32 2 LRU spice.din
+Input file = spice.din
+Demand fetch = 1000001
+Cache hit = 997911
+Cache miss = 2090
+Miss rate = 0.0021
+Read data = 150699
+Write data = 66538
+Bytes from Memory = 66880
+Byte to memory = 14496
+
+
+
+Andy@DESKTOP-U3NCGPP D:\Lab5\COlab5-final
+$ cache 8 32 1 FIFO gcc.din
+Input file = gcc.din
+Demand fetch = 1000002
+Cache hit = 924129
+Cache miss = 75873
+Miss rate = 0.0759
+Read data = 159631
+Write data = 83030
+Bytes from Memory = 2427936
+Byte to memory = 352192
+
+Andy@DESKTOP-U3NCGPP D:\Lab5\COlab5-final
+$ cache 32 8 f FIFO gcc.din
+Input file = gcc.din
+Demand fetch = 1000002
+Cache hit = 964755
+Cache miss = 35247
+Miss rate = 0.0352
+Read data = 159631
+Write data = 83030
+Bytes from Memory = 281976
+Byte to memory = 47744
+
+
+Andy@DESKTOP-U3NCGPP D:\Lab5\COlab5-final 
+$ cache 32 8 f LRU gcc.din                
+Input file = gcc.din                      
+Demand fetch = 1000002                    
+Cache hit = 969624                        
+Cache miss = 30378                        
+Miss rate = 0.0304                        
+Read data = 159631                        
+Write data = 83030                        
+Bytes from Memory = 243024                
+Byte to memory = 42032                    
+
+
+Andy@DESKTOP-U3NCGPP D:\Lab5\COlab5-final
+$ cache 32 8 4 FIFO gcc.din
+Input file = gcc.din
+Demand fetch = 1000002
+Cache hit = 962302
+Cache miss = 37700
+Miss rate = 0.0377
+Read data = 159631
+Write data = 83030
+Bytes from Memory = 301600
+Byte to memory = 49536
+
+
+Andy@DESKTOP-U3NCGPP D:\Lab5\COlab5-final
+$ cache 32 8 4 LRU gcc.din
+Input file = gcc.din
+Demand fetch = 1000002
+Cache hit = 966355
+Cache miss = 33647
+Miss rate = 0.0336
+Read data = 159631
+Write data = 83030
+Bytes from Memory = 269176
+Byte to memory = 43576
+
+
+
+
